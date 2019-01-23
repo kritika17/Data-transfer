@@ -9,11 +9,11 @@
 	Test for KB Sync 2
 	Test for KB Sync
 	TKB message number 1
-	      lithium.api.lion.InMemoryObjectInstanceTemplateModel@6a89d96a
+	      lithium.api.lion.InMemoryObjectInstanceTemplateModel@226674fb
 	new board new kbsync
 	Random TKB
 	new article for kb board
-	      lithium.api.lion.InMemoryObjectInstanceTemplateModel@6bfea510
+	      lithium.api.lion.InMemoryObjectInstanceTemplateModel@46fc6c05
 	testing the kbsync
 	test article for KB sync
 	fff
@@ -24,7 +24,7 @@
 	Top rated Products
 	new technology
 	test article
-	      lithium.api.lion.InMemoryObjectInstanceTemplateModel@360d29e6
+	      lithium.api.lion.InMemoryObjectInstanceTemplateModel@3d6c0ae5
 	TKB message number 2
-	      lithium.api.lion.InMemoryObjectInstanceTemplateModel@de33ca1
-	      lithium.api.lion.InMemoryObjectInstanceTemplateModel@3a2e808e
+	      lithium.api.lion.InMemoryObjectInstanceTemplateModel@7db0f0c0
+	      lithium.api.lion.InMemoryObjectInstanceTemplateModel@2de3c65f
