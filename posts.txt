@@ -1,60 +1,35 @@
-	Subject:
-	This is the message subject
-	Subject:
-	This is the message subject
-	Subject:
-	This is the message subject
-	Subject:
-	Message 3
-	Subject:
-	Message 4
-	Subject:
-	Message5
-	Subject:
-	test aeticle of kkb sync
-	Subject:
-	hotspoted image
-	Subject:
-	Test for KB Sync 2
-	Subject:
-	Test for KB Sync
-	Subject:
-	new board new kbsync
-	Subject:
-	Random TKB
-	Subject:
-	new article for kb board
+          This is the message subject
+          This is the message subject
+          This is the message subject
+          Message 3
+          Message 4
+          Message5
+          test aeticle of kkb sync
+          hotspoted image
+          Test for KB Sync 2
+          Test for KB Sync
+          new board new kbsync
+          Random TKB
+          new article for kb board
 	  Replies:
 	      <P>test</P>
-	Subject:
-	testing the kbsync
-	Subject:
-	test article for KB sync
-	Subject:
-	fff
-	Subject:
-	ydrsdtrgyuhijokl;
-	Subject:
-	Testing Knowledge
-	Subject:
-	special edition
-	Subject:
-	test
-	Subject:
-	Top rated Products
-	Subject:
-	new technology
-	Subject:
-	test article
+          testing the kbsync
+          test article for KB sync
+          fff
+          ydrsdtrgyuhijokl;
+          Testing Knowledge
+          special edition
+          test
+          Top rated Products
+          new technology
+          test article
 	  Replies:
 	      <P>test article rep</P>
-	Subject:
-	TKB message number 2
+          TKB message number 2
 	  Replies:
 	      <P>Test reply</P>
 	      <P>Reply to Tribal Knowledge base</P>
-	Subject:
-	TKB message number 3
+          TKB message number 3
 	  Replies:
 	      <P>Lipsum Pro</P>
 	      <P>Testing123</P>
